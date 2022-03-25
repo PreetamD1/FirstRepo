@@ -1,0 +1,50 @@
+
+12:37:00 PM :ORA-00904: "TYPE": invalid identifier
+ORA-00904: "TYPE": invalid identifier
+
+12:37:23 PM :ORA-00904: "TYPE": invalid identifier
+ORA-00904: "TYPE": invalid identifier
+
+12:37:26 PM :ORA-00904: "TYPE": invalid identifier
+
+12:37:26 PM :ORA-00904: "TYPE": invalid identifier
+
+12:37:28 PM :ORA-00904: "TYPE": invalid identifier
+ORA-00904: "TYPE": invalid identifier
+
+12:37:28 PM :ORA-00904: "TYPE": invalid identifier
+ORA-00904: "TYPE": invalid identifier
+
+12:37:30 PM :ORA-00904: "TYPE": invalid identifier
+
+12:37:30 PM :ORA-00904: "TYPE": invalid identifier
+
+12:37:35 PM :ORA-00904: "TYPE": invalid identifier
+ORA-00904: "TYPE": invalid identifier
+
+12:37:35 PM :ORA-00904: "TYPE": invalid identifier
+ORA-00904: "TYPE": invalid identifier
+
+12:37:37 PM :ORA-00904: "TYPE": invalid identifier
+
+12:37:37 PM :ORA-00904: "TYPE": invalid identifier
+
+12:37:40 PM :ORA-00904: "TYPE": invalid identifier
+ORA-00904: "TYPE": invalid identifier
+
+12:37:40 PM :ORA-00904: "TYPE": invalid identifier
+ORA-00904: "TYPE": invalid identifier
+
+12:37:43 PM :ORA-00904: "TYPE": invalid identifier
+
+12:37:43 PM :ORA-00904: "TYPE": invalid identifier
+
+12:37:46 PM :ORA-00904: "TYPE": invalid identifier
+ORA-00904: "TYPE": invalid identifier
+
+12:37:46 PM :ORA-00904: "TYPE": invalid identifier
+ORA-00904: "TYPE": invalid identifier
+
+12:37:48 PM :ORA-00904: "TYPE": invalid identifier
+
+12:37:48 PM :ORA-00904: "TYPE": invalid identifier

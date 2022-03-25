@@ -1,0 +1,59 @@
+
+12:05:05 :Generating moe for date:18/09/2018
+
+12:05:06 :moe_CNR_xml
+
+12:05:06 :getdata_CNR
+
+12:05:06 :getdata_CNR closed
+
+12:05:55 :Generating moe for date:18/09/2018
+
+12:06:15 :moe_CNR_xml
+
+12:06:16 :getdata_CNR
+
+12:06:16 :getdata_CNR closed
+
+12:07:40 :Generating moe for date:18/09/2018
+
+12:07:40 :moe_CNR_xml
+
+12:07:40 :getdata_CNR
+
+12:07:40 :getdata_CNR closed
+
+12:07:42 :exception :ORA-02289: sequence does not exist
+ORA-02289: sequence does not exist
+
+12:08:01 :Generating moe for date:18/09/2018
+
+12:08:07 :moe_CNR_xml
+
+12:08:07 :getdata_CNR
+
+12:08:07 :getdata_CNR closed
+
+12:09:18 :Generating moe for date:18/09/2018
+
+12:09:22 :moe_CNR_xml
+
+12:09:22 :getdata_CNR
+
+12:09:22 :getdata_CNR closed
+
+12:09:46 :moe_UTA_xml
+
+12:09:46 :getdata_UA
+
+12:09:46 :getdata_UA closed
+
+12:09:46 :end of moe_UTA_xml
+
+12:09:46 :update_moeerror
+
+12:09:46 :update_moeerror closed
+
+12:10:00 :upload_moe_xml
+
+12:10:51 :upload_moe_xml closed
